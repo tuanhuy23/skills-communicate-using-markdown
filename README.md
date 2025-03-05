@@ -24,6 +24,8 @@ _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
 
+<img src=https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 alt=celebrate width=300 align=right>
+
 Here's a recap of all the tasks you've accomplished in your repository:
 
 1. You learned about Markdown, headings, images, code examples, and task lists.
